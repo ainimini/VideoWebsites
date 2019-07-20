@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.videowebsites.service.VideoTypeService"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.alibaba.druid.filter.AutoLoad"/>
+<fullyQualifiedTypeName name="com.videowebsites.dao.VideoTypeMapper"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.videowebsites.entity.VideoInfo"/>
+<fullyQualifiedTypeName name="com.videowebsites.dao.VideoInfoMapper"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.Page"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.PageHelper"/>
+</qualifiedTypeNameHistroy>
